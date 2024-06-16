@@ -1,0 +1,15 @@
+.title {
+    font-size: 40px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.recipe-list {
+    font-size: 25px;
+}
+
+.title, .recipe-list {
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
